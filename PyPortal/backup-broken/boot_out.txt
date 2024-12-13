@@ -1,0 +1,7 @@
+Adafruit CircuitPython 7.0.0 on 2021-09-20; Adafruit PyPortal with samd51j20
+Board ID:pyportal
+boot.py output:
+**************** WARNING ******************
+Using the filesystem as a write-able cache!
+This is risky behavior, backup your files!
+**************** WARNING ******************
